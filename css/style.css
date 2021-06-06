@@ -22,3 +22,7 @@ h1{
     height: 300px;
     overflow: scroll;
 }
+.footer{
+    background-color: lightblue;
+    text-align: center;
+}
