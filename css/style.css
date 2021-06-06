@@ -5,7 +5,8 @@ h1{
     padding: 4px;
     margin: 4px;
     border: 1px solid floralwhite;
-    background-color: gainsboro;
+    background-color: rgb(141, 235, 183);
+    border-radius: 5px;
     text-align: center;
     color: black;
     font-weight: bolder;
@@ -25,4 +26,8 @@ h1{
 .footer{
     background-color: lightblue;
     text-align: center;
+}
+h2{
+    background-color: rgb(141, 235, 183);
+    
 }
