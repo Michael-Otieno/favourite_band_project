@@ -1,5 +1,5 @@
 body{
-    background-color: gainsboro;
+    background-color:gainsboro;
 }
 h1{
     padding: 4px;
@@ -8,7 +8,7 @@ h1{
     background-color: rgb(141, 235, 183);
     border-radius: 5px;
     text-align: center;
-    color: black;
+    color: blue;
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
@@ -29,5 +29,6 @@ h1{
 }
 h2{
     background-color: rgb(141, 235, 183);
+    color: blue;
     
 }
