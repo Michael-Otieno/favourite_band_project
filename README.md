@@ -1,4 +1,6 @@
-#### favourite_band_project
+#### Author
+Michael Otieno
+### favourite_band_project
 Music group biography website, current version was created in 2021. 
 
 ## Description
